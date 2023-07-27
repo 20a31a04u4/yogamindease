@@ -4,13 +4,14 @@
 
 ### This web based yoga application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-*GitHub Link* - 
+ 
 
 *Project Link* -
 https://nice-rock-06136e300.3.azurestaticapps.net/
 
 
 *Demo Video* -  
+https://youtu.be/02X81c7Olw0
 
 
 # Introduction
