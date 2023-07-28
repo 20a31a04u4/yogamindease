@@ -37,15 +37,16 @@ YogaMindEase is a website dedicated to promoting the practice of yoga and provid
 
 
 
+![Screenshot 2023-07-28 164419](https://github.com/20a31a04u4/yogamindease/assets/113761483/d4cd69bd-2c2d-4772-859f-3dc9bc48d11e)
 
-![about us](https://github.com/20a31a04u4/yogamindease/assets/113761483/a8ab1a92-9e10-4324-9332-dca6fc192adb)
 
 ### Contact page -
 
 
 
 
-![contact us](https://github.com/20a31a04u4/yogamindease/assets/113761483/d2716ae5-0fa7-4015-91af-564cfb68e42a)
+![Screenshot 2023-07-28 164446](https://github.com/20a31a04u4/yogamindease/assets/113761483/b2fc0c4c-ceb3-4d39-9474-ce78e2993298)
+
 
 
 ### Health Bot -
@@ -63,7 +64,3 @@ YogaMindEase is a website dedicated to promoting the practice of yoga and provid
 - Azure Chat Bot
 - Azure Static Apps
 
-# Chat Bot Integration
-The Azure Chat Bot integration is handled through the Azure Chat Bot service, which should already be configured as per the instructions in the Configuration section. The website communicates with the Chat Bot API to send and receive messages.
-
-For detailed information on integrating the Azure Chat Bot into the website, refer to the relevant documentation on the Azure portal.
