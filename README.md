@@ -7,11 +7,12 @@
  
 
 *Project Link* -
-https://nice-rock-06136e300.3.azurestaticapps.net/contact.html
 
+https://nice-rock-06136e300.3.azurestaticapps.net/index.html
 
 *Demo Video Link* -  
-https://youtu.be/02X81c7Olw0
+https://youtu.be/j26Iw4JYSSg
+
 
 
 # Introduction
